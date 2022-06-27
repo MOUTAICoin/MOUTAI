@@ -292,7 +292,9 @@ library Address {
      * `transfer`. {sendValue} removes this limitation.
      *
      * https://diligence.consensys.net/posts/2019/09/stop-using-soliditys-transfer-now/[Learn more].
-     *
+     *GitHub:    https://github.com/MOUTAICoin 
+
+      Telegram:  https://t.me/MOUTAI_Coin
      * IMPORTANT: because control is transferred to `recipient`, care must be
      * taken to not create reentrancy vulnerabilities. Consider using
      * {ReentrancyGuard} or the
@@ -434,7 +436,9 @@ contract Ownable is Context {
      /**
      * @dev Leaves the contract without owner. It will not be possible to call
      * `onlyOwner` functions anymore. Can only be called by the current owner.
-     *
+     *GitHub:    https://github.com/MOUTAICoin 
+
+      Telegram:  https://t.me/MOUTAI_Coin
      * NOTE: Renouncing ownership will leave the contract without an owner,
      * thereby removing any functionality that is only available to the owner.
      */

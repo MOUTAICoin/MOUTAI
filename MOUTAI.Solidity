@@ -711,7 +711,7 @@ contract MOUTAI is Context, IERC20, Ownable {
     uint256 private _tFeeTotal;
 
     string private _name = "MOUTAI Coin";
-    string private _symbol ="MOUTAI";
+    string private _symbol = "MOUTAI";
     uint8 private _decimals = 9;
     
     uint256 public _taxFee = 5;
